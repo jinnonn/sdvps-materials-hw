@@ -5,4 +5,3 @@
 
 - [Дополнительный материал для занятия "8.3. GitLab"](https://github.com/netology-code/sdvps-materials/tree/main/gitlab)
 
-jl;hjl;
